@@ -17,6 +17,7 @@ The bill of material below is for my build.
 - 2 x 8 mm diameter aluminium pipe, 180 mm long
 - 1 x 5 mm fiber glass rod, 100 mm long
 - 1 x 20 mm PVC pipe
+- 3 x Fair-Rite 2661480002
 - 1 x RG-58 Coax, 60 cm
 - 1 x Panel/chassis SMA connector for RG-58
 - 2 x M2 bolts, 12 mm
